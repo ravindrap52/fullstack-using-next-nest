@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "Ur Consulting GmbH Autohaus",
+    "logo": "https://source.unsplash.com/200x200?brandenburg",
+    "openingHours": {
+      "Monday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Tuesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Wednesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Thrusday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Friday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Saturday": {
+        "open":"10:00",
+        "closes": "17:00"
+      }
+    },
+    "address": {
+      "streetAddress": "Finowfurter Ring 47",
+      "addressLocality": "Brandenburg",
+      "postalCode": "16244",
+      "addressCountry": "DE"
+    },
+    "geo": { "lat": 52.84707, "lng": 13.6922 }
+  },
+  {
+    "id": 2,
+    "name": "Autohandel Nicolaus",
+    "logo": "https://source.unsplash.com/200x200?potsdam",
+    "openingHours": {
+      "Monday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Tuesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Wednesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Thrusday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Friday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Saturday": {
+        "open":"10:00",
+        "closes": "17:00"
+      }
+    },
+    "address": {
+      "streetAddress": "Am Buchhorst 26",
+      "addressLocality": "Potsdam",
+      "postalCode": "14478",
+      "addressCountry": "DE"
+    },
+    "geo": { "lat": 52.35786, "lng": 13.10857 }
+  },
+  {
+    "id": 3,
+    "name": "Autohaus Golbeck GmbH",
+    "logo": "https://source.unsplash.com/200x200?friedrichshain",
+    "openingHours": {
+      "Monday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Tuesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Wednesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Thrusday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Friday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Saturday": {
+        "open":"10:00",
+        "closes": "17:00"
+      }
+    },
+    "address": {
+      "streetAddress": "Kreutzigerstraße 28",
+      "addressLocality": "Berlin",
+      "postalCode": "10247",
+      "addressCountry": "DE"
+    },
+    "geo": { "lat": 52.5144, "lng": 13.46115 }
+  },
+  {
+    "id": 4,
+    "name": "Volkswagen Automobile Berlin GmbH Service",
+    "logo": "https://source.unsplash.com/200x200?charlottenburg",
+    "openingHours": {
+      "Monday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Tuesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Wednesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Thrusday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Friday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Saturday": {
+        "open":"10:00",
+        "closes": "17:00"
+      }
+    },
+    "address": {
+      "streetAddress": "Franklinstraße 5",
+      "addressLocality": "Berlin",
+      "postalCode": "10587",
+      "addressCountry": "DE"
+    },
+    "geo": { "lat": 52.51886, "lng": 13.32656 }
+  },
+  {
+    "id": 5,
+    "name": "Autohaus Wedding GmbH",
+    "logo": "https://source.unsplash.com/200x200?engelskirchen",
+    "openingHours": {
+      "Monday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Tuesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Wednesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Thrusday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Friday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Saturday": {
+        "open":"10:00",
+        "closes": "17:00"
+      }
+    },
+    "address": {
+      "streetAddress": "Albertsthal 13",
+      "addressLocality": "Engelskirchen",
+      "postalCode": "51766",
+      "addressCountry": "DE"
+    },
+    "geo": { "lat": 50.98683, "lng": 7.38963 }
+  },
+  {
+    "id": 6,
+    "name": "Autohaus am Goetheplatz",
+    "logo": "https://source.unsplash.com/200x200?munich",
+    "openingHours": {
+      "Monday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Tuesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Wednesday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Thrusday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Friday": {
+        "open":"10:00",
+        "closes": "17:00"
+      },
+      "Saturday": {
+        "open":"10:00",
+        "closes": "17:00"
+      }
+    },
+    "address": {
+      "streetAddress": "Lindwurmstraße 20-24",
+      "addressLocality": "München",
+      "postalCode": "80337",
+      "addressCountry": "DE"
+    },
+    "geo": { "lat": 50.98683, "lng": 7.38963 }
+  }
+]

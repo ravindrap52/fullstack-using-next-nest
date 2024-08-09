@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "dealerId": 1,
+    "makeId": 197,
+    "model": "Renault Megane",
+    "images": {
+      "s": "/images/1/s/front.png",
+      "m": "/images/1/m/front.png",
+      "l": "/images/1/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 25200,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 2,
+    "dealerId": 2,
+    "makeId": 106,
+    "model": "Hyundi i20",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/2/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/2/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/2/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 13900,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 3,
+    "dealerId": 3,
+    "makeId": 255,
+    "model": "Volkswagen T Cross",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/3/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/3/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/3/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 27900,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 4,
+    "dealerId": 4,
+    "makeId": 219,
+    "model": "Škoda Fabia",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/4/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/4/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/1/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 18800,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 5,
+    "dealerId": 1,
+    "makeId": 16,
+    "model": "Audi e-tron Sportback",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/5/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/5/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/5/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 150200,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 6,
+    "dealerId": 2,
+    "makeId": 21,
+    "model": "BMW iX3",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/6/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/6/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/6/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 83900,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 7,
+    "dealerId": 3,
+    "makeId": 119,
+    "model": "Jeep",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/7/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/7/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/7/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 57000,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 8,
+    "dealerId": 4,
+    "makeId": 129,
+    "model": "Kia EV6",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/8/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/8/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/8/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 26500,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  },
+  {
+    "id": 9,
+    "dealerId": 4,
+    "makeId": 415,
+    "model": "BMW i4",
+    "images": {
+      "s": "https://vehiculum-coding-challenge.herokuapp.com/images/4/s/front.png",
+      "m": "https://vehiculum-coding-challenge.herokuapp.com/images/4/m/front.png",
+      "l": "https://vehiculum-coding-challenge.herokuapp.com/images/1/l/front.png"
+    },
+    "grossMonthlyRate": {
+      "amount": 16800,
+      "unit": "cents",
+      "currency": "euro"
+    }
+  }
+]
